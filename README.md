@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+### 🚀 About Me
+I am Aman Bahuguna, a **Machine Learning** enthusiast and I love to create stuffs using **Python**.
+
+
 
 <!--
 **ammu-007/ammu-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
